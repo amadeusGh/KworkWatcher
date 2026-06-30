@@ -1,0 +1,12 @@
+{
+  "token": "REPLACE_WITH_TELEGRAM_BOT_TOKEN",
+  "chat_id": 123456789,
+  "categories": [171],
+  "interval": 60,
+  "bootstrap_mode": "skip",
+  "state_file": "sent_orders.json",
+  "max_state_orders": 5000,
+  "log_level": "INFO",
+  "dry_run": false,
+  "once": false
+}
